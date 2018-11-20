@@ -1,0 +1,7 @@
+base   layoutswitcher
+author laboradian
+email  laboradian@gmail.com
+date   2018-11-20
+name   Layout Switcher Plugin
+desc   Enables to switch layout
+url    https://laboradian.com/
